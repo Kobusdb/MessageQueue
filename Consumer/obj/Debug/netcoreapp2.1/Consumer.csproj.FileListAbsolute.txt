@@ -1,1 +1,0 @@
-C:\Users\kobusdb\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
